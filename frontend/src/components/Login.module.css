@@ -1,0 +1,39 @@
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+
+}
+
+.input {
+  display: flex;
+  gap: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+input {
+  font-size: 1em;
+  padding: 0.3em 0.5em;
+}
+
+
+.btn {
+  border: none;
+  color: rgba(0, 0, 0, 0.7);
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1em;
+  padding: 0.5em 0;
+  width: 100%;
+  text-align: center;
+  max-width: 400px;
+}
+
+.btn:hover {
+  color: black;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.03);
+}

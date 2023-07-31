@@ -1,0 +1,1 @@
+.eventCard{width:50vw}.calendarContainer{margin:10px 0 0 10px}.eventList{display:flex;flex-direction:column;font-size:large}.eventInfo{background-color:#dfdfdf;margin-top:10px;width:50%;border-radius:3px;padding:10px 0 10px 5px}.calendarContainer button{margin-top:10px}.eventInfo:hover{background-color:#b6b4b4;cursor:pointer}
